@@ -1,4 +1,4 @@
-/* Changing color */ 
+/* Changing color  
 const background = document.querySelector('h1');
 
 function changeColor(){
@@ -6,10 +6,10 @@ function changeColor(){
 }
 
 changeColor();
-
-
+*/
 
 /* Display input 
 const prenom = prompt("Entrez votre prénom: ");
 alert(`Bonjour, ${prenom}`);
 */
+
