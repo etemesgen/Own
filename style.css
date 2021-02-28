@@ -1,8 +1,14 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
 
-h1{
-    margin-left: 57rem;
+h1 {
+  margin-left: 25rem;
+}
+
+h1:hover {
+  text-decoration: underline;
+  text-decoration-color: rgb(238, 226, 52);
+  transition-duration: 1s;
 }
