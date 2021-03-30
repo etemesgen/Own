@@ -12,3 +12,16 @@ h1:hover {
   text-decoration-color: rgb(238, 226, 52);
   transition-duration: 1s;
 }
+
+#name {
+  color: rgb(146, 148, 150);
+  margin: 10rem 0rem 0rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+}
+
+img {
+  max-width: 100%;
+  width: 5%;
+  margin: -4rem 0rem 0rem 46rem;
+}
