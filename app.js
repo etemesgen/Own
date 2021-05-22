@@ -1,7 +1,7 @@
 window.addEventListener('DOMContentLoaded', (event) => {
     console.log('DOM fully loaded and parsed');
 })
-/* Changing color  
+/* Changing color
 const background = document.querySelector('h1');
 
 function changeColor(){
@@ -11,7 +11,7 @@ function changeColor(){
 changeColor();
 */
 
-/* Display input 
+/* Display input
 const prenom = prompt("Entrez votre prénom: ");
 alert(`Bonjour, ${prenom}`);
 */
@@ -26,7 +26,7 @@ class myShoes{
     }
 }
 
-let firstShoes = new myShoes("AirForce", 43, "Nike"); 
+let firstShoes = new myShoes("AirForce", 43, "Nike");
 console.log(firstShoes);
 let secondShoes = new myShoes("Jordan mid 1", 44, "Jordan");
 console.log(secondShoes);
@@ -70,6 +70,6 @@ console.log("This is the total number of product : " + produit);
 
 // 3 types d'erreurs : erreur de syntaxe, erreur logique (if/while...), erreur d'éxecution(try/catch)
 
-/* DOM MANIPULATING */
+/* DOM MANIPULATING
 let displayShoes = document.getElementById("name").innerHTML = "Nike";
-
+*/
