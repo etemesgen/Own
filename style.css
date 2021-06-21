@@ -13,15 +13,89 @@ h1:hover {
   transition-duration: 1s;
 }
 
+.shoes {
+  text-align: center;
+  margin-top: 5rem;
+}
+
 #name {
   color: rgb(146, 148, 150);
-  margin: 10rem 0rem 0rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  display: inline;
+  padding: 1rem;
+}
+
+#img {
+  max-width: 100%;
+}
+
+#img img {
+  width: 15rem;
+  margin: 0rem 0rem 0rem 35rem;
+}
+
+#size {
+  color: rgb(146, 148, 150);
+  text-align: center;
+  font-size: 2rem;
+  display: inline;
+  padding: 1rem;
+}
+
+#brand {
+  color: rgb(146, 148, 150);
+  text-align: center;
+  font-size: 2rem;
+  display: inline;
+  padding: 1rem;
+}
+
+#verifBrand {
+  font-weight: bold;
   text-align: center;
   font-size: 2rem;
 }
 
-img {
+.shoesTwo {
+  text-align: center;
+  margin-top: 5rem;
+}
+
+#nameTwo {
+  color: rgb(146, 148, 150);
+  text-align: center;
+  font-size: 2rem;
+  display: inline;
+  padding: 1rem;
+}
+
+#sizeTwo {
+  color: rgb(146, 148, 150);
+  text-align: center;
+  font-size: 2rem;
+  display: inline;
+  padding: 1rem;
+}
+
+#brandTwo {
+  color: rgb(146, 148, 150);
+  text-align: center;
+  font-size: 2rem;
+  display: inline;
+  padding: 1rem;
+}
+
+#imgTwo {
   max-width: 100%;
-  width: 5%;
-  margin: -4rem 0rem 0rem 46rem;
+}
+
+#imgTwo img {
+  width: 15rem;
+}
+
+#verifBrandTwo {
+  font-weight: bold;
+  text-align: center;
+  font-size: 2rem;
 }
